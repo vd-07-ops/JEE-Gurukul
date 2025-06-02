@@ -12,7 +12,10 @@ We aim to build an **adaptive learning platform** where each student gets a pers
 
 
 ## 🏗️ Tech Stack
-
+**For Generating JEE Type Questions**
+- Used Mistral 7b model through ollama to generate the JEE level questions given the context of past years' papers context.
+- For Frontend and Backend  used the tool Bolt to make the complete web app.
+  
 
 ---
 
